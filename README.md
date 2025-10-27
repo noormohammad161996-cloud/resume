@@ -48,6 +48,10 @@ I enjoy integrating automation into software delivery processes and combining **
 
 ## 📂 Featured Projects  
 
+🔹 [ares-app](https://github.com/noormohammad161996-cloud/ares-app) ![Docker Project](https://img.shields.io/badge/Docker-Fullstack-blue)  
+🧱 **Tech Stack:** Node.js (Frontend), Flask (Backend), MongoDB, Docker Compose  
+📦 **Description:** A full-stack Dockerized web app demonstrating container networking and DevOps fundamentals.  
+
 🔹 [resume](https://github.com/noormohammad161996-cloud/resume) ![Resume](https://img.shields.io/badge/Resume-PDF-blue)  
 📄 **[Download My Resume (Noor_DEV+M_CV.pdf)](https://github.com/noormohammad161996-cloud/resume/blob/main/Noor_DEV%2BM_CV.pdf)**  
 
