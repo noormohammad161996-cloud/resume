@@ -48,9 +48,23 @@ I enjoy integrating automation into software delivery processes and combining **
 
 ## 📂 Featured Projects  
 
+### 🐳 Docker Projects  
+
 🔹 [ares-app](https://github.com/noormohammad161996-cloud/ares-app) ![Docker Project](https://img.shields.io/badge/Docker-Fullstack-blue)  
 🧱 **Tech Stack:** Node.js (Frontend), Flask (Backend), MongoDB, Docker Compose  
 📦 **Description:** A full-stack Dockerized web app demonstrating container networking and DevOps fundamentals.  
+
+🔹 [nova-app](https://github.com/noormohammad161996-cloud/nova-app) ![Docker Compose](https://img.shields.io/badge/Docker-Compose-blue)  
+🧩 **Tech Stack:** Node.js (Frontend), Flask (Backend), Docker, Docker Compose  
+📦 **Description:** Multi-container full-stack application demonstrating container networking using Docker Compose.  
+🌐 **Includes:**  
+- Frontend (Node.js + Express Form)  
+- Backend (Flask API to process data)  
+- Dockerized setup using `docker-compose.yaml`  
+
+---
+
+### 📄 Other Projects  
 
 🔹 [resume](https://github.com/noormohammad161996-cloud/resume) ![Resume](https://img.shields.io/badge/Resume-PDF-blue)  
 📄 **[Download My Resume (Noor_DEV+M_CV.pdf)](https://github.com/noormohammad161996-cloud/resume/blob/main/Noor_DEV%2BM_CV.pdf)**  
@@ -62,16 +76,4 @@ I enjoy integrating automation into software delivery processes and combining **
 
 ## 📊 GitHub Stats  
 
-![Noor's GitHub stats](https://github-readme-stats.vercel.app/api?username=noormohammad161996-cloud&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noormohammad161996-cloud&layout=compact&theme=radical)
-
----
-
-## 🌱 Let's Connect  
-
-💬 Ask me about **DevOps, Mainframe Modernization, or CI/CD Pipelines**  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/noor-mohammad-828669275)
-
----
-
-⭐️ *“Keep learning, keep evolving — every new tool is a step closer to your dream role.”*
+![Noor's GitHub stats](https://github-readme-stats.vercel.app/api?username=noormohammad161996-cloud&show_icons=true&them_)
